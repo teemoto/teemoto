@@ -106,6 +106,10 @@ How AI changes software engineering workflows, architecture, developer tooling, 
 
 Architecture decisions, performance investigations, browser behavior, distributed frontend systems, and lessons learned from building real production software.
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 **Read more → [Aslam Bhai](https://tanviraslam.com)**
 
 ---
