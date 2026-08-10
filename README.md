@@ -108,6 +108,8 @@ Architecture decisions, performance investigations, browser behavior, distribute
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lifecycle of an Ad: What Happens After You Open a Webpage?](https://tanviraslam.com/articles/ad-lifecycle-browser/)
+- [The Art of Resilient Frontends, Part 1: The Mental Model](https://tanviraslam.com/articles/resilient-frontend-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 **Read more → [Aslam Bhai](https://tanviraslam.com)**
