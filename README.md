@@ -73,10 +73,8 @@ Exploring virtualization, search, diffing, and performant interaction with large
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-
-* [Lifecycle of an Ad: What Happens After You Open a Webpage?](https://tanviraslam.com/articles/ad-lifecycle-browser/)
-* [The Art of Resilient Frontends, Part 1: The Mental Model](https://tanviraslam.com/articles/resilient-frontend-architecture/)
-
+- [Lifecycle of an Ad: What Happens After You Open a Webpage?](https://tanviraslam.com/articles/ad-lifecycle-browser/)
+- [The Art of Resilient Frontends, Part 1: The Mental Model](https://tanviraslam.com/articles/resilient-frontend-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 **[Read more on Aslam Bhai →](https://tanviraslam.com)**
