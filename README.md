@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Aslam_Bhai-Read_my_blog-111111?style=for-the-badge" alt="Aslam Bhai" />
 </a>
 &nbsp;
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanviraslam/)">
+<a href="https://www.linkedin.com/in/tanviraslam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -110,8 +110,8 @@ Exploring virtualization, search, diffing, and performant interaction with large
 
 ### Build systems. Understand them. Share what you learn.
 
-<a href="https://tanviraslam.com"><b>Aslam Bhai</b></a>
-  ·   <a href="https://github.com/teemoto"><b>GitHub</b></a>
-  ·   <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a>
+<a href="https://tanviraslam.com" target="_blank"><b>Aslam Bhai</b></a>
+  ·   <a href="https://github.com/teemoto" target="_blank"><b>GitHub</b></a>
+  ·   <a href="YOUR_LINKEDIN_URL" target="_blank"><b>LinkedIn</b></a>
 
 </div>
