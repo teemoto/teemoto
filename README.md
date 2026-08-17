@@ -6,7 +6,12 @@
 
 ### I build resilient frontend systems, developer tools & open-source software.
 
-**Staff Frontend Engineer · Systems Builder · Technical Writer**
+<a href="https://tanviraslam.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Staff+Frontend+Engineer;Systems+Builder;Technical+Writer&color=39C5CF"
+    alt="Staff Frontend Engineer · Systems Builder · Technical Writer"
+  />
+</a>
 
 <br/>
 
@@ -14,7 +19,7 @@
   <img src="https://img.shields.io/badge/Aslam_Bhai-Read_my_blog-111111?style=for-the-badge" alt="Aslam Bhai" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tanviraslam/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
