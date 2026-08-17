@@ -111,6 +111,6 @@ Exploring virtualization, search, diffing, and performant interaction with large
 
 <a href="https://tanviraslam.com" target="_blank"><b>Aslam Bhai</b></a>
   ·   <a href="https://github.com/teemoto" target="_blank"><b>GitHub</b></a>
-  ·   <a href="YOUR_LINKEDIN_URL" target="_blank"><b>LinkedIn</b></a>
+  ·   <a href="https://www.linkedin.com/in/tanviraslam/" target="_blank"><b>LinkedIn</b></a>
 
 </div>
