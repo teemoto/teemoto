@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About
 
-I'm a frontend-focused engineer interested in problems where **frontend engineering starts looking like systems engineering**.
+I'm an UI Engineering leader interested in problems where **frontend engineering starts looking like systems engineering**.
 
 * 🏗️ Building large-scale frontend platforms and developer infrastructure
 * 🤖 Exploring applied AI and AI-assisted engineering
