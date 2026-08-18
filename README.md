@@ -28,13 +28,13 @@
 
 ## 👨‍💻 About
 
-I'm an UI Engineering leader interested in problems where **frontend engineering starts looking like systems engineering**.
+I'm a Frontend Engineering Leader interested in problems where **frontend engineering starts looking like systems engineering**.
 
-* 🏗️ Building large-scale frontend platforms and developer infrastructure
+* 🏗️ I build frontend platforms and developer infrastructure for complex web applications.
 * 🤖 Exploring applied AI and AI-assisted engineering
-* 📡 Deep into frontend architecture, resilience, performance, and AdTech
+* 📡 Deep into frontend architecture, resilience, performance, distributed UI systems and AdTech
 * ✍️ Writing engineering deep dives at **[Aslam Bhai](https://tanviraslam.com)**
-* 🌱 Building and learning in public through open source
+* 🌱 Outside work, I build open-source developer tools and write engineering deep dives explaining how complex systems actually work.
 
 ---
 
@@ -86,18 +86,9 @@ Exploring virtualization, search, diffing, and performant interaction with large
 ---
 
 ## 🧰 Toolbox
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,aws,docker,git,github" alt="Technology stack" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`Frontend Architecture` · `Microfrontends` · `Design Systems` · `Distributed Systems`
+`Frontend Architecture` · `Distributed UI Architecture` · `Design Systems` · `Developer Infrastructure`
 
 `Performance` · `Resilience` · `AdTech` · `Applied AI`
 
