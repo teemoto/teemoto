@@ -52,7 +52,7 @@ CMS-style authoring while keeping Git as the source of truth.
 
 `Open Source` `Publishing` `GitHub` `TypeScript`
 
-<a href="SAKKA_REPOSITORY_URL"><b>Explore Sakka →</b></a>
+<a href="https://github.com/teemoto/Sakka"><b>Explore Sakka →</b></a>
 
 </td>
 
