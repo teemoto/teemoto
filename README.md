@@ -66,7 +66,7 @@ Exploring virtualization, search, diffing, and performant interaction with large
 
 `Performance` `Developer Tools` `TypeScript`
 
-<a href="JSON_BOURNE_REPOSITORY_URL"><b>Explore JSON Bourne →</b></a>
+<a href="https://github.com/teemoto/json-bourne"><b>Explore JSON Bourne →</b></a>
 
 </td>
 </tr>
