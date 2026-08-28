@@ -77,7 +77,8 @@ Exploring virtualization, search, diffing, and performant interaction with large
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Inspecting Custom React Hooks with useDebugValue](https://tanviraslam.com/articles/til-usedebugvalue/)
+- [WTF Are Portals in React?](https://tanviraslam.com/articles/wtf-are-portals-in-react/)
+- [Inspecting Custom React Hooks with useDebugValue](https://tanviraslam.com/articles/til-usedebugvalue/)
 - [Working with AI as a Software Developer](https://tanviraslam.com/articles/working-with-ai-as-a-software-developer/)
 - [Lifecycle of an Ad: What Happens After You Open a Webpage?](https://tanviraslam.com/articles/ad-lifecycle-browser/)
 - [The Art of Resilient Frontends, Part 1: The Mental Model](https://tanviraslam.com/articles/resilient-frontend-architecture/)
