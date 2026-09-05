@@ -77,11 +77,11 @@ Exploring virtualization, search, diffing, and performant interaction with large
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [State in React, From First Principles](https://tanviraslam.com/articles/state-in-react-from-first-principles/)
 - [Building a Safe, Configurable Terminal UI for the Web](https://tanviraslam.com/articles/building-a-safe-terminal-ui-for-the-web/)
 - [WTF Are Portals in React?](https://tanviraslam.com/articles/wtf-are-portals-in-react/)
 - [Inspecting Custom React Hooks with useDebugValue](https://tanviraslam.com/articles/til-usedebugvalue/)
 - [Working with AI as a Software Developer](https://tanviraslam.com/articles/working-with-ai-as-a-software-developer/)
-- [Lifecycle of an Ad: What Happens After You Open a Webpage?](https://tanviraslam.com/articles/ad-lifecycle-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 **[Read more on Aslam Bhai →](https://tanviraslam.com)**
