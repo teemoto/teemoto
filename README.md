@@ -77,11 +77,11 @@ Exploring virtualization, search, diffing, and performant interaction with large
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Resilient Frontends, Part 2: Containing Failure in the Browser](https://tanviraslam.com/articles/resilient-frontends-containing-failure-in-the-browser/)
 - [Canaries vs E2E Tests, Part 1: Two Questions, Not One Answer](https://tanviraslam.com/articles/canaries-vs-e2e-tests-part-1/)
 - [Keeping Empty Directories in Git with .gitkeep](https://tanviraslam.com/articles/keeping-empty-directories-in-git-with-gitkeep/)
 - [State in React, From First Principles](https://tanviraslam.com/articles/state-in-react-from-first-principles/)
 - [Building a Safe, Configurable Terminal UI for the Web](https://tanviraslam.com/articles/building-a-safe-terminal-ui-for-the-web/)
-- [WTF Are Portals in React?](https://tanviraslam.com/articles/wtf-are-portals-in-react/)
 <!-- BLOG-POST-LIST:END -->
 
 **[Read more on Aslam Bhai →](https://tanviraslam.com)**
